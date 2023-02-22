@@ -78,10 +78,10 @@ Write a query to create a stored procedure to retrieve the details of the employ
 ### Question 14
  Write a query using stored functions in the project table to check whether the job profile assigned to each employee in the data science team matches the organization’s set standard.
  The standard being:
-For an employee with experience less than or equal to 2 years assign 'JUNIOR DATA SCIENTIST', For an employee with the experience of 2 to 5 years assign 'ASSOCIATE DATA SCIENTIST',
-For an employee with the experience of 5 to 10 years assign 'SENIOR DATA SCIENTIST',
-For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIST',
-For an employee with the experience of 12 to 16 years assign 'MANAGER'
+- For an employee with experience less than or equal to 2 years assign 'JUNIOR DATA SCIENTIST', For an employee with the experience of 2 to 5 years assign 'ASSOCIATE DATA SCIENTIST',
+- For an employee with the experience of 5 to 10 years assign 'SENIOR DATA SCIENTIST',
+- For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIST',
+- For an employee with the experience of 12 to 16 years assign 'MANAGER'
  
  <img width="1145" alt="question14" src="https://user-images.githubusercontent.com/122455311/220599590-ef9a0909-e3c3-4c41-a9bc-d4d26bc63bdb.png">
 
