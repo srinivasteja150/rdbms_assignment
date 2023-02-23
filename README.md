@@ -9,7 +9,8 @@ and emp_record_table.csv into the employee database from the given resources.
 ### Question 2
 Create an ER diagram for the given employee database.
 
-<img width="1175" alt="Screenshot 2023-02-23 at 4 27 19 PM" src="https://user-images.githubusercontent.com/122455311/220888042-6bcfe3f8-68aa-45ba-8a2d-b993fee9e443.png">
+<img width="949" alt="Screenshot 2023-02-23 at 5 14 21 PM" src="https://user-images.githubusercontent.com/122455311/220896998-e3f3e93b-0d6e-4901-9ba6-e9c32c17084b.png">
+
 
 ### Question 3
 Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and DEPARTMENT from the employee record table, and make a list of employees and details of their department.
